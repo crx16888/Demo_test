@@ -1,0 +1,8 @@
+prefix=/home/crx/Code/ROS理论与实践_6.机器人SLAM与自主导航_代码/sources/catkin_ws/install
+
+Name: mbot_teleop
+Description: Description of mbot_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

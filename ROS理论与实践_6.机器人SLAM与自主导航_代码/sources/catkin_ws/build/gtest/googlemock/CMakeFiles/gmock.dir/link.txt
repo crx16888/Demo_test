@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/crx/Code/ROS理论与实践_6.机器人SLAM与自主导航_代码/sources/catkin_ws/build/gtest/lib ../lib/libgtest.so -lpthread 

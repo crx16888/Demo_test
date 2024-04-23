@@ -1,0 +1,2 @@
+mbot_bringup:mbot_description:mbot_gazebo:mbot_navigation:mbot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/crx/Code/ROS理论与实践_6.机器人SLAM与自主导航_代码/sources/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/crx/Code/ROS理论与实践_6.机器人SLAM与自主导航_代码/sources/catkin_ws/install -G Unix Makefiles
